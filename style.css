@@ -170,7 +170,7 @@ h1 {
     align-items: center;
     flex-wrap: wrap;
     list-style: none;
-    padding: 0;
+    padding: 0 !important;
 }
 
 .footer .obs {
